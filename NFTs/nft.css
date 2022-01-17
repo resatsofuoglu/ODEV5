@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color:wt;
+}
+.sayfa {
+    width: 100%;
+    margin: 0 auto;
+    background-color:white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:#6495ED
+    
+}
+h1 {
+    text-align: center;
+}
+
+.UstBilgi {
+
+    background-color:#1E90FF;
+    text-align: center;
+   
+}
+
+.baslik {
+    text-align: center;
+    background-color: #DCDCDC;
+    padding: 10px;
+}
+
+.sutun {
+    display: flex;
+    background-color: rgb(50, 122, 205);
+    width: 33%;
+    flex-direction: column;
+   
+}
+.icerik {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+}
+li {
+    line-break: auto;
+
+}
